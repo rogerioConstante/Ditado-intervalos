@@ -1,0 +1,177 @@
+
+    html {
+      width: 100vw;
+      height: 100vh;
+      /* background-color: #b0a0a2; */
+    }
+
+    .inputIntervalo
+    {
+      border-radius: 0.55em;
+      background: #E4E4E4;
+      width: 30px;
+      font-weight: bold;
+      font-size: 14px;
+      text-align: center;
+      color: #997300;
+      position: absolute;
+    }
+
+    .resp
+    {
+      font-weight: bold;
+      font-size: 14px;
+      text-align: center;
+      position: absolute;
+    }
+    #myCanvas
+    {
+
+    }
+
+    #regress
+    {
+      top: 230px;
+      left: 30px;
+      font-size: 12px;
+      color: #997300;
+      position: absolute;
+    }
+    /*-----------------------------*/
+    #timer
+    {
+      top: 250px;
+      left: 30px;
+      font-size: 22px;
+      color: #997300;
+      position: absolute;
+    }
+    /*-----------------------------*/
+    #nivel
+    {
+      top: 15px;
+      left: 240px;
+      width: 35px;
+      font-size: 12px;
+      color: #997300;
+      background-color: #f1f1f1;
+      position: absolute;
+    }
+    /*------------------------*/
+    .timbre
+    {
+      top: 15px;
+      left: 380px;
+      font-size: 12px;
+      color: #997300;
+      position: absolute;
+    }
+    /*------------------------*/
+    #pagIn
+    {
+      top: 80px;
+      left: 30px;
+      font-size: 20px;
+      color: #997300;
+      position: absolute;
+    }
+    /*------------------------*/
+    #autor
+    {
+      top: 3px;
+      left: 565px;
+      font-size: 9px;
+      color: #997300;
+      position: absolute;
+    }
+    /*----------------------- */
+    #interrog
+    {
+      top: 90px;
+      left: 90px;
+      font-size: 22px;
+      color: green;
+      position: absolute;
+    }
+    /*----------------------- */
+    #contaQ
+    {
+      top: -10px;
+      left: 30px;
+      font-size: 20px;
+      color: #997300;
+      position: absolute;
+    }
+    /* -------------------------- */
+    #tocar
+    {
+      top: 60px;
+      left: 618px;
+      width: 80px;
+      position: absolute;
+    }
+    #salvar
+    {
+      top: 90px;
+      left: 618px;
+      width: 80px;
+      position: absolute;
+    }
+    #audio
+    {
+      top: 150px;
+      left: 618px;
+      width: 80px;
+      position: absolute;
+    }
+    #iniciar
+    {
+      top: 30px;
+      left: 618px;
+      width: 80px;
+      position: absolute;
+    }
+    #proximo
+    {
+      top: 318px;
+      left: 618px;
+      width: 80px;
+      font-size: 11px;
+      position: absolute;
+      align-items: center;
+      justify-content: center;
+      border-radius: 0.55em;
+      letter-spacing: 1px;
+      transition: all 0.2s linear;
+      cursor: pointer;
+      background: #e6e600;
+    }
+    #resposta
+    {
+      top: 248px;
+      left: 618px;
+      width: 80px;
+      font-size: 11px;
+      position: absolute;
+      align-items: center;
+      justify-content: center;
+      border-radius: 0.55em;
+      letter-spacing: 1px;
+      transition: all 0.2s linear;
+      cursor: pointer;
+      background: #e6e600;
+    }
+
+    /* -------------------------- */
+
+  /*  .botaoResposta {
+      border-radius: 0.55em;
+      background: #E4E4E4;
+      width: 70px;
+      font-size: 11px;
+      position: absolute;
+    }*/
+    .underline {
+      text-decoration: underline;
+    }
+
