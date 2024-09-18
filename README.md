@@ -7,5 +7,5 @@
       O botão <b>Resposta</b> apresenta a solução da questão.<br>
       O botão <b>Próximo</b> passa para a questão seguinte.</p>
 
-       ![image](https://github.com/user-attachments/assets/7d279c25-118b-4c4d-a4eb-5d43f6a517ea)
 
+![image](https://github.com/user-attachments/assets/1c3c4e42-acb8-4b73-b605-25ecfc00429e)
